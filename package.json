@@ -1,0 +1,12 @@
+{
+  "name": "gatsby_theme_use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@carltonj2000/gatsby-theme-events": "^1.0.0",
+    "gatsby": "^2.16.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
